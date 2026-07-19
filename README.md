@@ -23,7 +23,6 @@ Currently, I am focusing my career on **Cybersecurity**, exploring system vulner
 <div align="center">
 
 ### 🛡️ Cybersecurity & Systems
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
