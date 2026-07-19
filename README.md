@@ -13,7 +13,7 @@
 <br>
 Computer Science student and Network Analyst with a solid background in NOC operations and ISP infrastructure.
 
-Currently, I am focusing my career on **Cybersecurity**, exploring system vulnerabilities, secure architectures, and robust software development. My hands-on experience with network monitoring, routing protocols, and infrastructure provides a strong foundation for understanding how to secure complex environments. Alongside cybersecurity, I actively develop my skills in low-level programming with **Rust** and build interactive applications and simulations using Unity.
+Currently, I am focusing my career on **Cybersecurity**, exploring system vulnerabilities, secure architectures, and robust software development. My hands-on experience with network monitoring, routing protocols, and infrastructure provides a strong foundation for understanding how to secure complex environments.
 
 ---
 
@@ -24,7 +24,6 @@ Currently, I am focusing my career on **Cybersecurity**, exploring system vulner
 
 ### 🛡️ Cybersecurity & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 📡 Networking & Infrastructure
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0D1117?style=for-the-badge)
